@@ -491,7 +491,7 @@ Desktop Styles
         max-height: 4.0625em;
         background-color: #E7E7E6;
         border-bottom: none;
-        padding: .625em 1em 1em 1em;
+        padding: 0em 1em 1em 1em;
     }
 
     .repo-list a:hover {
@@ -499,7 +499,7 @@ Desktop Styles
         background-color: #CDE3F1;
     }
 
-    .repo-list li:first-child {
+    .repo-list li:nth-child(odd) {
         text-align: center;
         border-left: none;
         line-height: 60px;
