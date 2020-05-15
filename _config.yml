@@ -35,7 +35,7 @@ navigation:
   url: ./
   internal: true
 - text: Screenshots
-  url: sceenshots/
+  url: screenshots/
   internal: true
 - text: Documentation
   url: docs/
