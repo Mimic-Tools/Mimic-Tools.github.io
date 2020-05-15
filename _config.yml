@@ -10,7 +10,7 @@ collections:
 
 # Title
 name: Mimic Homepage
-subtitle: Levelling up Text TTRPGs
+subtitle: Enhanced Text TTRPGs
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -25,8 +25,8 @@ author:
   url: http://localhost:4000
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl:
-logoalt:
+logourl: logo_small.png
+logoalt: Mimic Logo
 
 # Navigation
 # List links that should appear in the site sidebar here
@@ -35,7 +35,7 @@ navigation:
   url: ./
   internal: true
 - text: Screenshots
-  url: sceenshots/
+  url: screenshots/
   internal: true
 - text: Documentation
   url: docs/
@@ -46,13 +46,14 @@ navigation:
 
 # Repo list
 # List repos that you would like to appear on the homepage here
-repos:
-- name: DOCter
-  description: Jekyll template for docs
-  url: https://github.com/cfpb/DOCter
+
+# repos:
+# - name: DOCter
+#   description: Jekyll template for docs
+#   url: https://github.com/cfpb/DOCter
 
 # Style Variables
-brand_color: "#2cb34a"
+brand_color: "#151cfb"
 
 # Offline caching
 offline_cache: false
