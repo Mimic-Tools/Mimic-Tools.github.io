@@ -58,6 +58,10 @@ strong {
     margin: 0;
     line-height: 1.2941176470588236;
     display: inline-block;
+    
+    position: relative;
+    top: -2em;
+    padding-left: 20px;
 }
 
 h2 {
@@ -225,6 +229,9 @@ Layout
 
 .logo {
     display: block;
+}
+.logo_link{
+    display: inline-block;
 }
 
 .content {
