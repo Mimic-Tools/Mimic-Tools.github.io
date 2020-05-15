@@ -536,3 +536,7 @@ Mobile Styles
     }
 
 }
+
+.screenshot{   
+    max-width: 1000px;
+}
