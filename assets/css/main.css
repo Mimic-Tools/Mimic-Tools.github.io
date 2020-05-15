@@ -61,7 +61,8 @@ strong {
     
     position: relative;
     top: -2em;
-    padding-left: 20px;
+    padding-left: 200px;
+    font-style: italic;
 }
 
 h2 {
