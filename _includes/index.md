@@ -1,3 +1,5 @@
-The homepage content can be edited as markdown in _includes/index.html or directly within the index.html file.
+Mimic's goal is to make your chat-based TTRPG games more interactive, compelling and first and foremost - fun!
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We give dungeon masters the tools to plan and post enchanced content like maps, handouts and galleries. Players can add a level of customization into their game with unique icons and damage effects.
+
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
