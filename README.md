@@ -1,6 +1,6 @@
-# DOCter
+# Mimic Tools Documentation / Homepage
 
-DOCter is a [Jekyll](http://jekyllrb.com/) template for quickly building out project pages and documentation.
+This site is based on DOCter. DOCter is a [Jekyll](http://jekyllrb.com/) template for quickly building out project pages and documentation.
 
 ![DOCter Screenshot](https://github.com/ascott1/DOCter/blob/gh-pages/assets/img/screenshot.png?raw=true)
 
